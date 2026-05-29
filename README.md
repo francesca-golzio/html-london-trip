@@ -1,9 +1,13 @@
-# Compito 8/01/26 London Trip
+Semplice esercitazione HTML svolta durante il bootcamp Boolean "Master in Web Development".
 
-esercizio di oggi 'Viaggio a Londra'
-repo 'html-london-trip'
+----
 
-# Esercizio
+# London Trip
+
+8/01/26 - esercizio di oggi 'Viaggio a Londra'
+<br>repo `html-london-trip`
+
+## Esercizio
 Riproducete il layout dell'immagine allegata utilizzando i tag che abbiamo visto stamattina aiutandovi con le slide di stamattina.
 1. Create una nuova cartella per l'esercizio di oggi  con il nome: `html-london-trip`
 2. All'interno della cartella html-london-trip, create il file `index.html` (sarà la prima pagina ad aprirsi in un sito). 
